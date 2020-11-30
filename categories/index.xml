@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Diwakar Sharma</title>
-    <link>https://github.com/diwakarsharma238/diwakar_portfolio/categories/</link>
+    <link>https://diwakarsharma238.github.io/diwakar_portfolio/categories/</link>
     <description>Recent content in Categories on Diwakar Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/diwakarsharma238/diwakar_portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://diwakarsharma238.github.io/diwakar_portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
