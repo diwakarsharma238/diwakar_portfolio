@@ -6,24 +6,69 @@
     <description>Recent content in Data Science Portfolio on Diwakar Sharma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://diwakarsharma238.github.io/diwakar_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://diwakarsharma238.github.io/diwakar_portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1: Data Science Salary Estimator</title>
-      <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-1/</link>
-      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <title>Project : SSIS- Data Pipe Line</title>
+      <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-7/</link>
+      <pubDate>Tue, 16 Feb 2021 11:00:59 -0400</pubDate>
       
-      <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-1/</guid>
-      <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
+      <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-7/</guid>
+      <description>Create a SSIS data pipeline to import data in multiple csv files and store the cleaned data in a database in Microsoft sql server.    Link to GitHub Repository</description>
     </item>
     
     <item>
-      <title>Project 2: Ball Image Classifier</title>
+      <title>Project : Bank Customer Analysis- Tableau</title>
+      <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-6/</link>
+      <pubDate>Mon, 15 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-6/</guid>
+      <description>Data collected by web scrapping using python Data visualization in Tableau    Link to Tableau Profile</description>
+    </item>
+    
+    <item>
+      <title>Project : BitCoin Analysis - Python</title>
       <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Wed, 03 Feb 2021 11:00:59 -0400</pubDate>
       
       <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-2/</guid>
-      <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
+      <description>Data scrapping using Python -Pandas Data cleaning using Python Data analysis, visualization using Python - Matplotlib    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project : Covid-19  Data Analysis - Power BI</title>
+      <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-5/</link>
+      <pubDate>Sun, 10 Jan 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-5/</guid>
+      <description>Covid data imported from csv files Data cleaning/transformation done in PowerBI query Top 10 most affected countries shown. Dashboard is interactive, the time line history shows that covid cases followed the same trend for all the countries. It took about a month to reach peak , which is constant for most of the countries    Link to Power BI Profile</description>
+    </item>
+    
+    <item>
+      <title>Project : Data Analytics in Digital Marketing-Excel</title>
+      <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-3/</link>
+      <pubDate>Mon, 14 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-3/</guid>
+      <description>Created a macro to import raw data(csv files) Created a pivot table to organize the data. Created a slicer to identify the top affiliate for the current week. Data analysis to know the overall performance Data visualization, created charts for the final findings.        Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project : Covid-19  Data Analysis - Tableau</title>
+      <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-4/</link>
+      <pubDate>Sat, 12 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-4/</guid>
+      <description>Data collected by web scrapping using python Data visualization in Tableau Covid data (UK) analysis    Link to Tableau Profile</description>
+    </item>
+    
+    <item>
+      <title>Project : Sales Data Analysis</title>
+      <link>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-1/</link>
+      <pubDate>Sun, 07 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://diwakarsharma238.github.io/diwakar_portfolio/post/project-1/</guid>
+      <description>Sales data for a company was analyzed to give insight into the sales trend for different regions to help in making the future investment decision
+        Link to Data Studio Report</description>
     </item>
     
     <item>
@@ -32,9 +77,10 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://diwakarsharma238.github.io/diwakar_portfolio/contact/</guid>
-      <description>My Social media sites
-Platform URL
-Linkdin: https://www.linkedin.com/in/diwakar-sharma-50271312/</description>
+      <description>Platform URL
+Linkdin: https://www.linkedin.com/in/diwakar-sharma-50271312/
+GitHub: https://github.com/diwakarsharma238
+Tableau: https://public.tableau.com/profile/diwakar.sharma#!/</description>
     </item>
     
   </channel>
